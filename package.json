@@ -4,7 +4,7 @@
   "description": "-",
   "main": "index.js",
   "scripts": {
-    "fetch": "node index.js",
+    "fetch": "node index.js"
   },
   "keywords": [],
   "author": "pren",
