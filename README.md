@@ -1,10 +1,8 @@
 # MLBB-Winrate
 Simpelnya ini adalah data winrate hero di MLBB.
-- Diambil dari:
-  > **https://m.mobilelegends.com/rank**
+Karna website Mobile Legends memiliki [Javascript Rendering](https://www.geeksforgeeks.org/what-is-javascript-rendering/), di repository ini dapat di fetch tanpa melalui tahap [Javascript Rendering](https://www.geeksforgeeks.org/what-is-javascript-rendering/).
 
----
-- Karna website Mobile Legends memiliki [Javascript Rendering](https://www.geeksforgeeks.org/what-is-javascript-rendering/), di repository ini dapat di fetch tanpa melalui tahap [Javascript Rendering](https://www.geeksforgeeks.org/what-is-javascript-rendering/).
+- [x] Data di update setiap hari, **07.00 WIB** melalui [Cron Jobs Workflow](https://github.com/Pren7/MLBB-Winrate/blob/main/.github/workflows/main.yml)
 
 ---
 ## Fitur
@@ -18,6 +16,7 @@ Simpelnya ini adalah data winrate hero di MLBB.
 - Fetch ke **URL**:
   > **https://raw.githubusercontent.com/Pren7/MLBB-Winrate/refs/heads/main/winrate.json**
 - Lalu kamu akan menerima sample data seperti:
+---
 ```json
 [
   {
@@ -43,6 +42,10 @@ Simpelnya ini adalah data winrate hero di MLBB.
   }
 ]
 ```
-- Dan masih banyak lainnya sampai 127+ Hero.
+- **Rank**: (All)
+- **Date**: (Today)
+- **Sort**: Winrate
+- **Past**: 1 Day
 ---
 # More Info will be Collected Soon.
+# Collected from [MLBB/rank](https://m.mobilelegends.com/rank)
