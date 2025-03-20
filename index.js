@@ -6,7 +6,7 @@ const puppeteer = require('puppeteer');
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
-  await page.goto('https://www.google.com');
+  await page.goto('https://m.mobilelegends.com/');
   
   const title = await page.title();
   console.log('Page Title:', title);
