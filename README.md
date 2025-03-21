@@ -2,7 +2,7 @@
 Simpelnya ini adalah data winrate hero di MLBB.
 Karna website Mobile Legends memiliki [Javascript Rendering](https://www.geeksforgeeks.org/what-is-javascript-rendering/), di repository ini dapat di fetch tanpa melalui tahap [Javascript Rendering](https://www.geeksforgeeks.org/what-is-javascript-rendering/).
 
-- [x] Data di update setiap hari, **15:00 WIB /  08:00 UTC** melalui [Cron Jobs Workflow](https://github.com/Pren7/MLBB-Winrate/blob/main/.github/workflows/main.yml)
+- [x] Data di update setiap hari, **00.00 WIB /  17:00 UTC** melalui [Cron Jobs Workflow](https://github.com/Pren7/MLBB-Winrate/blob/main/.github/workflows/main.yml)
 
 ---
 ## Fitur
