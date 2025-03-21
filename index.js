@@ -45,18 +45,18 @@ async function main() {
 
     return Array.from(heroItems).map((item) => {
       const name = item.querySelector('[data-node="2693412"] span')?.innerText;
-      const heroImage = item.querySelector('[data-node="2684911"] img')?.src;
-      const pickRate = item.querySelector(
+      const icon = item.querySelector('[data-node="2684911"] img')?.src;
+      const pick = item.querySelector(
         '[data-node="2684925"] span'
       )?.innerText;
-      const winRate = item.querySelector(
+      const wins = item.querySelector(
         '[data-node="2684926"] span'
       )?.innerText;
-      const banRate = item.querySelector(
+      const loses = item.querySelector(
         '[data-node="2687632"] span'
       )?.innerText;
 
-      return { name, heroImage, pickRate, winRate, banRate };
+      return { name, icon, pick, wins, loses };
     });
   });
 
