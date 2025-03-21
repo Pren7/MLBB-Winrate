@@ -20,25 +20,25 @@ Karna website Mobile Legends memiliki [Javascript Rendering](https://www.geeksfo
 ```json
 [
   {
-    "name": "Lolita",
-    "heroImage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-    "pickRate": "0.15%",
-    "winRate": "57.77%",
-    "banRate": "0.82%"
-  },
-  {
     "name": "Floryn",
-    "heroImage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
-    "pickRate": "0.83%",
-    "winRate": "57.21%",
-    "banRate": "18.93%"
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+    "pick": "0.83%",
+    "wins": "58.83%",
+    "loses": "3.69%"
   },
   {
-    "name": "Julian",
-    "heroImage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-    "pickRate": "1.58%",
-    "winRate": "56.29%",
-    "banRate": "55.72%"
+    "name": "Lolita",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
+    "pick": "0.11%",
+    "wins": "57.14%",
+    "loses": "0.13%"
+  },
+  {
+    "name": "Irithel",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+    "pick": "1.16%",
+    "wins": "56.49%",
+    "loses": "0.52%"
   }
 ]
 ```
