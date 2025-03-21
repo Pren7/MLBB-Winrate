@@ -22,23 +22,44 @@ Karna website Mobile Legends memiliki [Javascript Rendering](https://www.geeksfo
   {
     "name": "Floryn",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
-    "pick": "0.83%",
-    "wins": "58.83%",
-    "loses": "3.69%"
+    "winrate": "58.83%",
+    "banrate": "3.69%",
+    "pickrate": "0.83%"
   },
   {
     "name": "Lolita",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-    "pick": "0.11%",
-    "wins": "57.14%",
-    "loses": "0.13%"
+    "winrate": "57.14%",
+    "banrate": "0.13%",
+    "pickrate": "0.11%"
   },
   {
     "name": "Irithel",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-    "pick": "1.16%",
-    "wins": "56.49%",
-    "loses": "0.52%"
+    "winrate": "56.49%",
+    "banrate": "0.52%",
+    "pickrate": "1.16%"
+  },
+  {
+    "name": "Argus",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+    "winrate": "55.72%",
+    "banrate": "3.07%",
+    "pickrate": "1.03%"
+  },
+  {
+    "name": "Popol and Kupa",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+    "winrate": "55.69%",
+    "banrate": "0.33%",
+    "pickrate": "0.49%"
+  },
+  {
+    "name": "Wanwan",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+    "winrate": "55.25%",
+    "banrate": "0.53%",
+    "pickrate": "0.40%"
   }
 ]
 ```
