@@ -2,911 +2,911 @@
   {
     "name": "Masha",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
-    "winrate": "55.85%",
+    "winrate": "55.40%",
     "banrate": "0.15%",
     "pickrate": "0.09%"
   },
   {
-    "name": "Diggie",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
-    "winrate": "55.38%",
-    "banrate": "18.56%",
-    "pickrate": "0.25%"
-  },
-  {
     "name": "Lolita",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_474cea36a4bfdc7bf7d94530853a99b2.png",
-    "winrate": "55.00%",
-    "banrate": "2.68%",
-    "pickrate": "0.22%"
+    "winrate": "54.92%",
+    "banrate": "2.19%",
+    "pickrate": "0.21%"
+  },
+  {
+    "name": "Diggie",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1bdf46136cb8a7903dae6d58e8349cb.png",
+    "winrate": "54.84%",
+    "banrate": "27.96%",
+    "pickrate": "0.24%"
   },
   {
     "name": "Irithel",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
-    "winrate": "54.50%",
-    "banrate": "2.47%",
-    "pickrate": "1.00%"
-  },
-  {
-    "name": "Gloo",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
-    "winrate": "54.40%",
-    "banrate": "33.36%",
-    "pickrate": "0.49%"
+    "winrate": "54.74%",
+    "banrate": "2.48%",
+    "pickrate": "0.94%"
   },
   {
     "name": "Ixia",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png",
-    "winrate": "54.28%",
-    "banrate": "2.67%",
-    "pickrate": "1.13%"
-  },
-  {
-    "name": "Floryn",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
-    "winrate": "54.03%",
-    "banrate": "46.99%",
-    "pickrate": "1.16%"
+    "winrate": "54.50%",
+    "banrate": "3.03%",
+    "pickrate": "1.15%"
   },
   {
     "name": "Popol and Kupa",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
-    "winrate": "54.03%",
-    "banrate": "0.46%",
-    "pickrate": "0.31%"
+    "winrate": "54.50%",
+    "banrate": "0.47%",
+    "pickrate": "0.32%"
+  },
+  {
+    "name": "Gloo",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_c472fe0233e5ef84a3ac9ba4a229d09f.png",
+    "winrate": "54.33%",
+    "banrate": "36.64%",
+    "pickrate": "0.48%"
   },
   {
     "name": "Aamon",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png",
-    "winrate": "53.91%",
-    "banrate": "46.44%",
+    "winrate": "54.10%",
+    "banrate": "46.64%",
     "pickrate": "1.05%"
   },
   {
-    "name": "Ruby",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
-    "winrate": "53.71%",
-    "banrate": "1.24%",
-    "pickrate": "0.82%"
-  },
-  {
-    "name": "Cici",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
-    "winrate": "53.63%",
-    "banrate": "40.58%",
-    "pickrate": "1.55%"
-  },
-  {
-    "name": "Argus",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
-    "winrate": "53.53%",
-    "banrate": "2.45%",
-    "pickrate": "0.35%"
-  },
-  {
-    "name": "Sun",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
-    "winrate": "53.47%",
-    "banrate": "6.20%",
-    "pickrate": "1.05%"
+    "name": "Floryn",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a57b91e4914cf071a3849e352e530a5.png",
+    "winrate": "53.88%",
+    "banrate": "25.75%",
+    "pickrate": "1.19%"
   },
   {
     "name": "Yve",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_d9b0a1d92b1c4b3643d6332fd66aa8e6.png",
-    "winrate": "53.41%",
-    "banrate": "1.45%",
-    "pickrate": "0.35%"
+    "winrate": "53.84%",
+    "banrate": "1.51%",
+    "pickrate": "0.31%"
+  },
+  {
+    "name": "Ruby",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b96c75b136290576d849309722d4d20.png",
+    "winrate": "53.68%",
+    "banrate": "1.32%",
+    "pickrate": "0.82%"
+  },
+  {
+    "name": "Sun",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+    "winrate": "53.63%",
+    "banrate": "6.30%",
+    "pickrate": "1.02%"
+  },
+  {
+    "name": "Cici",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png",
+    "winrate": "53.56%",
+    "banrate": "40.24%",
+    "pickrate": "1.62%"
   },
   {
     "name": "Rafaela",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png",
-    "winrate": "53.31%",
-    "banrate": "5.84%",
-    "pickrate": "0.48%"
+    "winrate": "53.40%",
+    "banrate": "6.51%",
+    "pickrate": "0.52%"
+  },
+  {
+    "name": "Argus",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+    "winrate": "53.34%",
+    "banrate": "2.40%",
+    "pickrate": "0.32%"
   },
   {
     "name": "Melissa",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png",
-    "winrate": "53.23%",
-    "banrate": "0.92%",
+    "winrate": "53.13%",
+    "banrate": "0.97%",
     "pickrate": "0.47%"
-  },
-  {
-    "name": "Aulus",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
-    "winrate": "53.16%",
-    "banrate": "0.30%",
-    "pickrate": "0.15%"
-  },
-  {
-    "name": "Hilda",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
-    "winrate": "53.11%",
-    "banrate": "13.69%",
-    "pickrate": "0.98%"
-  },
-  {
-    "name": "Silvanna",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
-    "winrate": "53.09%",
-    "banrate": "1.33%",
-    "pickrate": "1.05%"
   },
   {
     "name": "Minotaur",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ecd2c0843df7ec85044dafff6bf4553.png",
-    "winrate": "52.82%",
-    "banrate": "1.56%",
-    "pickrate": "0.60%"
+    "winrate": "53.11%",
+    "banrate": "1.80%",
+    "pickrate": "0.71%"
+  },
+  {
+    "name": "Aulus",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40839957990dbb59a9e5ec4da9f85a8e.png",
+    "winrate": "53.10%",
+    "banrate": "0.28%",
+    "pickrate": "0.15%"
+  },
+  {
+    "name": "Silvanna",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png",
+    "winrate": "53.00%",
+    "banrate": "1.36%",
+    "pickrate": "1.07%"
+  },
+  {
+    "name": "Hilda",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acd700708dc515f5c63a08f8835a9941.png",
+    "winrate": "52.90%",
+    "banrate": "14.92%",
+    "pickrate": "0.93%"
   },
   {
     "name": "Kaja",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
-    "winrate": "52.80%",
+    "winrate": "52.78%",
     "banrate": "0.18%",
     "pickrate": "0.10%"
   },
   {
-    "name": "Terizla",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
-    "winrate": "52.61%",
-    "banrate": "0.47%",
-    "pickrate": "0.34%"
-  },
-  {
-    "name": "Hanabi",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
-    "winrate": "52.55%",
-    "banrate": "2.46%",
-    "pickrate": "2.16%"
-  },
-  {
-    "name": "Kadita",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
-    "winrate": "52.49%",
-    "banrate": "2.85%",
-    "pickrate": "0.77%"
+    "name": "Gord",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
+    "winrate": "52.63%",
+    "banrate": "0.29%",
+    "pickrate": "0.55%"
   },
   {
     "name": "Natan",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da02742f59013365923b216420bc4082.png",
-    "winrate": "52.47%",
-    "banrate": "27.44%",
-    "pickrate": "1.17%"
+    "winrate": "52.53%",
+    "banrate": "24.55%",
+    "pickrate": "1.02%"
+  },
+  {
+    "name": "Hanabi",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png",
+    "winrate": "52.48%",
+    "banrate": "2.56%",
+    "pickrate": "2.19%"
   },
   {
     "name": "Brody",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+    "winrate": "52.43%",
+    "banrate": "0.50%",
+    "pickrate": "0.56%"
+  },
+  {
+    "name": "Terizla",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c4bb270c28c7be663f57e993b0d6d3d8.png",
     "winrate": "52.42%",
     "banrate": "0.49%",
-    "pickrate": "0.54%"
+    "pickrate": "0.40%"
   },
   {
     "name": "Edith",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_daab57918de01a6d5bb2ed6f45808a7e.png",
-    "winrate": "52.42%",
-    "banrate": "0.11%",
-    "pickrate": "0.16%"
-  },
-  {
-    "name": "Gord",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png",
-    "winrate": "52.29%",
-    "banrate": "0.27%",
-    "pickrate": "0.49%"
-  },
-  {
-    "name": "Angela",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
-    "winrate": "52.11%",
-    "banrate": "51.00%",
-    "pickrate": "1.75%"
+    "winrate": "52.31%",
+    "banrate": "0.12%",
+    "pickrate": "0.21%"
   },
   {
     "name": "Obsidia",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
-    "winrate": "51.95%",
-    "banrate": "18.89%",
-    "pickrate": "0.96%"
+    "winrate": "52.18%",
+    "banrate": "18.88%",
+    "pickrate": "0.95%"
   },
   {
-    "name": "Roger",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
-    "winrate": "51.95%",
-    "banrate": "0.33%",
-    "pickrate": "0.49%"
+    "name": "Kadita",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+    "winrate": "52.07%",
+    "banrate": "3.03%",
+    "pickrate": "0.87%"
   },
   {
-    "name": "Fredrinn",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
-    "winrate": "51.90%",
-    "banrate": "7.23%",
-    "pickrate": "0.75%"
+    "name": "Angela",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png",
+    "winrate": "52.00%",
+    "banrate": "52.26%",
+    "pickrate": "1.73%"
   },
   {
     "name": "Kimmy",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_61295dfefd369004e5e4a7f4fc86647b.png",
-    "winrate": "51.82%",
-    "banrate": "4.24%",
-    "pickrate": "1.61%"
+    "winrate": "51.96%",
+    "banrate": "4.50%",
+    "pickrate": "1.50%"
   },
   {
-    "name": "Alucard",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-    "winrate": "51.72%",
-    "banrate": "15.72%",
-    "pickrate": "1.68%"
+    "name": "Fredrinn",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png",
+    "winrate": "51.89%",
+    "banrate": "7.85%",
+    "pickrate": "0.76%"
+  },
+  {
+    "name": "Roger",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b40e578f13465b3ae99d0a9baac7ecc9.png",
+    "winrate": "51.87%",
+    "banrate": "0.34%",
+    "pickrate": "0.57%"
   },
   {
     "name": "Valir",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png",
-    "winrate": "51.62%",
-    "banrate": "0.89%",
-    "pickrate": "0.76%"
-  },
-  {
-    "name": "Khaleed",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
-    "winrate": "51.57%",
-    "banrate": "1.01%",
-    "pickrate": "0.33%"
-  },
-  {
-    "name": "Phoveus",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
-    "winrate": "51.47%",
-    "banrate": "3.63%",
-    "pickrate": "0.67%"
-  },
-  {
-    "name": "Xavier",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
-    "winrate": "51.46%",
-    "banrate": "1.42%",
-    "pickrate": "1.26%"
-  },
-  {
-    "name": "Alice",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
-    "winrate": "51.37%",
-    "banrate": "40.40%",
-    "pickrate": "0.87%"
-  },
-  {
-    "name": "Helcurt",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-    "winrate": "51.29%",
-    "banrate": "4.21%",
-    "pickrate": "0.65%"
-  },
-  {
-    "name": "Cyclops",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
-    "winrate": "51.26%",
-    "banrate": "0.42%",
-    "pickrate": "0.82%"
-  },
-  {
-    "name": "Hanzo",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
-    "winrate": "51.26%",
-    "banrate": "3.76%",
-    "pickrate": "0.23%"
-  },
-  {
-    "name": "Estes",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
-    "winrate": "51.18%",
-    "banrate": "22.48%",
-    "pickrate": "0.61%"
-  },
-  {
-    "name": "Faramis",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
-    "winrate": "51.16%",
-    "banrate": "0.49%",
-    "pickrate": "0.16%"
-  },
-  {
-    "name": "Atlas",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
-    "winrate": "51.16%",
-    "banrate": "3.41%",
-    "pickrate": "0.45%"
-  },
-  {
-    "name": "Vexana",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
-    "winrate": "51.13%",
-    "banrate": "1.77%",
-    "pickrate": "1.95%"
-  },
-  {
-    "name": "Hayabusa",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
-    "winrate": "51.09%",
-    "banrate": "48.59%",
-    "pickrate": "1.17%"
-  },
-  {
-    "name": "Bane",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-    "winrate": "51.08%",
-    "banrate": "25.38%",
-    "pickrate": "1.45%"
-  },
-  {
-    "name": "X.Borg",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
-    "winrate": "51.06%",
-    "banrate": "5.73%",
-    "pickrate": "0.98%"
-  },
-  {
-    "name": "Julian",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
-    "winrate": "50.97%",
-    "banrate": "2.94%",
-    "pickrate": "0.86%"
-  },
-  {
-    "name": "Harley",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
-    "winrate": "50.94%",
-    "banrate": "3.53%",
-    "pickrate": "0.74%"
-  },
-  {
-    "name": "Lapu-Lapu",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
-    "winrate": "50.93%",
-    "banrate": "5.67%",
-    "pickrate": "1.26%"
-  },
-  {
-    "name": "Yu Zhong",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
-    "winrate": "50.90%",
-    "banrate": "2.83%",
-    "pickrate": "1.00%"
-  },
-  {
-    "name": "Uranus",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
-    "winrate": "50.88%",
-    "banrate": "2.44%",
-    "pickrate": "0.64%"
-  },
-  {
-    "name": "Belerick",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
-    "winrate": "50.84%",
-    "banrate": "10.22%",
-    "pickrate": "1.04%"
-  },
-  {
-    "name": "Gatotkaca",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
-    "winrate": "50.83%",
-    "banrate": "2.29%",
-    "pickrate": "1.64%"
-  },
-  {
-    "name": "Kagura",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
-    "winrate": "50.81%",
-    "banrate": "1.13%",
-    "pickrate": "0.70%"
+    "winrate": "51.66%",
+    "banrate": "0.93%",
+    "pickrate": "0.77%"
   },
   {
     "name": "Thamuz",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png",
-    "winrate": "50.81%",
-    "banrate": "4.96%",
-    "pickrate": "1.13%"
+    "winrate": "51.63%",
+    "banrate": "5.41%",
+    "pickrate": "1.17%"
+  },
+  {
+    "name": "Alice",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_18300163a5a912a84adb52b8d59b4618.png",
+    "winrate": "51.56%",
+    "banrate": "40.75%",
+    "pickrate": "0.81%"
+  },
+  {
+    "name": "Cyclops",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68da456f9c01b2f88d29ee320db181ed.png",
+    "winrate": "51.47%",
+    "banrate": "0.41%",
+    "pickrate": "0.78%"
+  },
+  {
+    "name": "Xavier",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df0a8dfc494f85ed9bbc4512cc1e5d3c.png",
+    "winrate": "51.43%",
+    "banrate": "1.33%",
+    "pickrate": "1.09%"
+  },
+  {
+    "name": "Hanzo",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d2d28d2fcb060726fa27553920ca1a33.png",
+    "winrate": "51.41%",
+    "banrate": "4.00%",
+    "pickrate": "0.24%"
+  },
+  {
+    "name": "Faramis",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04e575d648d7f7ac1174f4369595c3a2.png",
+    "winrate": "51.39%",
+    "banrate": "0.46%",
+    "pickrate": "0.14%"
+  },
+  {
+    "name": "Estes",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff4de3b0aabd1d2f6e184db1c831f6a9.png",
+    "winrate": "51.34%",
+    "banrate": "24.20%",
+    "pickrate": "0.63%"
+  },
+  {
+    "name": "Khaleed",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png",
+    "winrate": "51.33%",
+    "banrate": "1.09%",
+    "pickrate": "0.36%"
+  },
+  {
+    "name": "Atlas",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png",
+    "winrate": "51.31%",
+    "banrate": "3.55%",
+    "pickrate": "0.43%"
+  },
+  {
+    "name": "Vexana",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_743edd1702084c4ed247908d698bca77.png",
+    "winrate": "51.30%",
+    "banrate": "1.83%",
+    "pickrate": "1.87%"
+  },
+  {
+    "name": "Phoveus",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_af21c0dd8b5308c27974bff900803a9a.png",
+    "winrate": "51.26%",
+    "banrate": "3.64%",
+    "pickrate": "0.61%"
+  },
+  {
+    "name": "X.Borg",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_efe9c7ed8d8f84f1bb0f88a3e08de5fc.png",
+    "winrate": "51.14%",
+    "banrate": "6.68%",
+    "pickrate": "1.06%"
+  },
+  {
+    "name": "Helcurt",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+    "winrate": "51.13%",
+    "banrate": "4.47%",
+    "pickrate": "0.67%"
+  },
+  {
+    "name": "Alucard",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
+    "winrate": "51.08%",
+    "banrate": "15.68%",
+    "pickrate": "1.73%"
+  },
+  {
+    "name": "Bane",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+    "winrate": "51.07%",
+    "banrate": "21.42%",
+    "pickrate": "1.45%"
+  },
+  {
+    "name": "Hayabusa",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cc074562291a02644a0ddae28eeaa42.png",
+    "winrate": "51.06%",
+    "banrate": "47.70%",
+    "pickrate": "1.16%"
   },
   {
     "name": "Saber",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6bbfac806f29d29f17fea9e98d2d2fee.png",
-    "winrate": "50.70%",
-    "banrate": "20.51%",
-    "pickrate": "0.80%"
+    "winrate": "50.99%",
+    "banrate": "21.74%",
+    "pickrate": "0.81%"
   },
   {
-    "name": "Baxia",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
-    "winrate": "50.69%",
-    "banrate": "0.39%",
-    "pickrate": "0.21%"
+    "name": "Uranus",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png",
+    "winrate": "50.98%",
+    "banrate": "2.44%",
+    "pickrate": "0.63%"
   },
   {
     "name": "Odette",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d9251718a8894546ba04cfa9ca68dedc.png",
-    "winrate": "50.68%",
-    "banrate": "0.48%",
+    "winrate": "50.97%",
+    "banrate": "0.49%",
+    "pickrate": "0.71%"
+  },
+  {
+    "name": "Yu Zhong",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_9823ce4fe5eb89c0082b24f6d5ea67f6.png",
+    "winrate": "50.96%",
+    "banrate": "3.21%",
+    "pickrate": "0.97%"
+  },
+  {
+    "name": "Harley",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3aa6964c07a70f9b125da447f320e1ac.png",
+    "winrate": "50.89%",
+    "banrate": "3.96%",
+    "pickrate": "0.78%"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28036c4584c914c5aad4d2feeafb2452.png",
+    "winrate": "50.87%",
+    "banrate": "6.69%",
+    "pickrate": "1.17%"
+  },
+  {
+    "name": "Belerick",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f2a9eca0bafd4ed8dc39a93c771b3af.png",
+    "winrate": "50.83%",
+    "banrate": "10.77%",
+    "pickrate": "1.26%"
+  },
+  {
+    "name": "Julian",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5511ddc0ad2789b525f32ef572b017eb.png",
+    "winrate": "50.75%",
+    "banrate": "3.10%",
+    "pickrate": "0.81%"
+  },
+  {
+    "name": "Baxia",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_80e408203869ca99302af195ac4f756c.png",
+    "winrate": "50.62%",
+    "banrate": "0.36%",
+    "pickrate": "0.20%"
+  },
+  {
+    "name": "Cecilion",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
+    "winrate": "50.61%",
+    "banrate": "0.44%",
+    "pickrate": "0.85%"
+  },
+  {
+    "name": "Gatotkaca",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png",
+    "winrate": "50.52%",
+    "banrate": "2.22%",
+    "pickrate": "1.63%"
+  },
+  {
+    "name": "Kagura",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+    "winrate": "50.42%",
+    "banrate": "1.25%",
     "pickrate": "0.70%"
   },
   {
     "name": "Carmilla",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fb8f120dafdcbc1b5da2a2667016ad5.png",
-    "winrate": "50.58%",
-    "banrate": "1.03%",
-    "pickrate": "0.54%"
-  },
-  {
-    "name": "Cecilion",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_045399c265021d47da6512e6de20b64f.png",
-    "winrate": "50.51%",
-    "banrate": "0.44%",
-    "pickrate": "0.86%"
-  },
-  {
-    "name": "Lunox",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
-    "winrate": "50.50%",
-    "banrate": "0.64%",
-    "pickrate": "0.53%"
-  },
-  {
-    "name": "Minsitthar",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
-    "winrate": "50.48%",
-    "banrate": "2.71%",
-    "pickrate": "0.41%"
-  },
-  {
-    "name": "Guinevere",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
-    "winrate": "50.42%",
-    "banrate": "1.98%",
-    "pickrate": "0.92%"
-  },
-  {
-    "name": "Benedetta",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
-    "winrate": "50.28%",
-    "banrate": "1.28%",
-    "pickrate": "0.61%"
-  },
-  {
-    "name": "Badang",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
-    "winrate": "50.24%",
-    "banrate": "1.69%",
-    "pickrate": "0.94%"
+    "winrate": "50.41%",
+    "banrate": "2.22%",
+    "pickrate": "0.56%"
   },
   {
     "name": "Clint",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
-    "winrate": "50.10%",
-    "banrate": "0.50%",
-    "pickrate": "0.59%"
+    "winrate": "50.30%",
+    "banrate": "0.55%",
+    "pickrate": "0.65%"
+  },
+  {
+    "name": "Badang",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png",
+    "winrate": "50.27%",
+    "banrate": "1.64%",
+    "pickrate": "0.87%"
+  },
+  {
+    "name": "Minsitthar",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png",
+    "winrate": "50.25%",
+    "banrate": "2.71%",
+    "pickrate": "0.42%"
+  },
+  {
+    "name": "Lunox",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e162688afdcaf3f6498af30badfe31c5.png",
+    "winrate": "50.08%",
+    "banrate": "0.69%",
+    "pickrate": "0.65%"
+  },
+  {
+    "name": "Guinevere",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
+    "winrate": "50.07%",
+    "banrate": "2.03%",
+    "pickrate": "0.96%"
   },
   {
     "name": "Bruno",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
-    "winrate": "50.02%",
-    "banrate": "0.13%",
-    "pickrate": "0.20%"
-  },
-  {
-    "name": "Barats",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
-    "winrate": "50.01%",
+    "winrate": "50.06%",
     "banrate": "0.11%",
-    "pickrate": "0.07%"
-  },
-  {
-    "name": "Zhuxin",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
-    "winrate": "49.98%",
-    "banrate": "3.03%",
-    "pickrate": "0.43%"
-  },
-  {
-    "name": "Leomord",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
-    "winrate": "49.89%",
-    "banrate": "0.08%",
-    "pickrate": "0.10%"
-  },
-  {
-    "name": "Natalia",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
-    "winrate": "49.87%",
-    "banrate": "1.90%",
-    "pickrate": "0.27%"
+    "pickrate": "0.19%"
   },
   {
     "name": "Yi Sun-shin",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_961378be3f498d42c25b3defd1635ad1.png",
-    "winrate": "49.85%",
-    "banrate": "51.69%",
-    "pickrate": "1.15%"
-  },
-  {
-    "name": "Alpha",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
-    "winrate": "49.84%",
-    "banrate": "1.81%",
-    "pickrate": "1.55%"
-  },
-  {
-    "name": "Lylia",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
-    "winrate": "49.73%",
-    "banrate": "0.24%",
-    "pickrate": "0.34%"
-  },
-  {
-    "name": "Layla",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
-    "winrate": "49.70%",
-    "banrate": "2.45%",
-    "pickrate": "1.69%"
+    "winrate": "49.94%",
+    "banrate": "50.21%",
+    "pickrate": "1.11%"
   },
   {
     "name": "Zhask",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8f170087cb2d5b71bb22a0a4664a927.png",
-    "winrate": "49.68%",
-    "banrate": "0.45%",
-    "pickrate": "0.26%"
+    "winrate": "49.77%",
+    "banrate": "0.47%",
+    "pickrate": "0.27%"
   },
   {
-    "name": "Moskov",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
-    "winrate": "49.60%",
-    "banrate": "0.34%",
-    "pickrate": "0.76%"
+    "name": "Layla",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png",
+    "winrate": "49.72%",
+    "banrate": "2.35%",
+    "pickrate": "1.71%"
   },
   {
-    "name": "Wanwan",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
-    "winrate": "49.56%",
-    "banrate": "5.69%",
-    "pickrate": "0.32%"
+    "name": "Natalia",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbb5065b6ff174d1a20ccf5b7f523514.png",
+    "winrate": "49.71%",
+    "banrate": "1.94%",
+    "pickrate": "0.30%"
   },
   {
-    "name": "Pharsa",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
-    "winrate": "49.41%",
-    "banrate": "1.47%",
-    "pickrate": "1.14%"
+    "name": "Alpha",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png",
+    "winrate": "49.71%",
+    "banrate": "1.83%",
+    "pickrate": "1.49%"
   },
   {
-    "name": "Vale",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
-    "winrate": "49.40%",
-    "banrate": "0.33%",
-    "pickrate": "0.56%"
+    "name": "Benedetta",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4a5e537894bdc00787e80e4d3ada5dd.png",
+    "winrate": "49.65%",
+    "banrate": "1.17%",
+    "pickrate": "0.62%"
+  },
+  {
+    "name": "Leomord",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_554cdf13a7587fe08c5deed60132c61c.png",
+    "winrate": "49.64%",
+    "banrate": "0.09%",
+    "pickrate": "0.17%"
+  },
+  {
+    "name": "Zhuxin",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
+    "winrate": "49.63%",
+    "banrate": "3.17%",
+    "pickrate": "0.55%"
   },
   {
     "name": "Eudora",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60956060c4cbb86f3c6343da05b70568.png",
-    "winrate": "49.31%",
-    "banrate": "3.24%",
+    "winrate": "49.56%",
+    "banrate": "3.25%",
     "pickrate": "0.75%"
+  },
+  {
+    "name": "Moskov",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png",
+    "winrate": "49.55%",
+    "banrate": "0.33%",
+    "pickrate": "0.72%"
   },
   {
     "name": "Aldous",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb32187d08f14779585a8be53b83f01.png",
-    "winrate": "49.23%",
-    "banrate": "0.44%",
-    "pickrate": "0.32%"
+    "winrate": "49.49%",
+    "banrate": "0.42%",
+    "pickrate": "0.30%"
   },
   {
-    "name": "Gusion",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
-    "winrate": "49.16%",
-    "banrate": "6.75%",
-    "pickrate": "1.61%"
+    "name": "Lylia",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+    "winrate": "49.47%",
+    "banrate": "0.25%",
+    "pickrate": "0.36%"
+  },
+  {
+    "name": "Barats",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6495be044c2d28106e200f6918391d54.png",
+    "winrate": "49.44%",
+    "banrate": "0.12%",
+    "pickrate": "0.12%"
+  },
+  {
+    "name": "Wanwan",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png",
+    "winrate": "49.38%",
+    "banrate": "5.54%",
+    "pickrate": "0.35%"
+  },
+  {
+    "name": "Vale",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2a7a8d1531a1c4f8524880413535348d.png",
+    "winrate": "49.29%",
+    "banrate": "0.34%",
+    "pickrate": "0.56%"
+  },
+  {
+    "name": "Pharsa",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png",
+    "winrate": "49.19%",
+    "banrate": "1.47%",
+    "pickrate": "1.26%"
   },
   {
     "name": "Grock",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_f8b8c8964d3202b7b762947ac96f1ed3.png",
-    "winrate": "49.14%",
-    "banrate": "28.69%",
-    "pickrate": "1.02%"
+    "winrate": "49.19%",
+    "banrate": "30.98%",
+    "pickrate": "0.97%"
   },
   {
     "name": "Yin",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png",
-    "winrate": "49.05%",
-    "banrate": "4.94%",
-    "pickrate": "0.59%"
+    "winrate": "49.18%",
+    "banrate": "5.20%",
+    "pickrate": "0.57%"
   },
   {
     "name": "Chang'e",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46cfe9c30e8a14f85b4d022496aca274.png",
-    "winrate": "49.00%",
-    "banrate": "2.82%",
-    "pickrate": "1.39%"
+    "winrate": "49.11%",
+    "banrate": "2.81%",
+    "pickrate": "1.33%"
   },
   {
     "name": "Zetian",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
-    "winrate": "48.98%",
-    "banrate": "5.70%",
-    "pickrate": "0.82%"
-  },
-  {
-    "name": "Joy",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
-    "winrate": "48.89%",
-    "banrate": "4.83%",
-    "pickrate": "0.53%"
-  },
-  {
-    "name": "Miya",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
-    "winrate": "48.89%",
-    "banrate": "1.39%",
-    "pickrate": "1.57%"
+    "winrate": "49.09%",
+    "banrate": "6.03%",
+    "pickrate": "0.81%"
   },
   {
     "name": "Akai",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_28f223447f0174336ff0922d364d81d3.png",
-    "winrate": "48.84%",
-    "banrate": "0.94%",
-    "pickrate": "0.43%"
+    "winrate": "49.03%",
+    "banrate": "0.93%",
+    "pickrate": "0.41%"
   },
   {
     "name": "Beatrix",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png",
-    "winrate": "48.72%",
+    "winrate": "48.96%",
     "banrate": "0.25%",
+    "pickrate": "0.52%"
+  },
+  {
+    "name": "Miya",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+    "winrate": "48.88%",
+    "banrate": "1.34%",
+    "pickrate": "1.50%"
+  },
+  {
+    "name": "Joy",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d3a3a55c22000ae78732fed8cba2efef.png",
+    "winrate": "48.88%",
+    "banrate": "5.17%",
     "pickrate": "0.53%"
+  },
+  {
+    "name": "Gusion",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png",
+    "winrate": "48.78%",
+    "banrate": "7.53%",
+    "pickrate": "1.83%"
   },
   {
     "name": "Hylos",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png",
-    "winrate": "48.58%",
+    "winrate": "48.67%",
     "banrate": "1.02%",
-    "pickrate": "0.40%"
-  },
-  {
-    "name": "Luo Yi",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
-    "winrate": "48.50%",
-    "banrate": "0.11%",
-    "pickrate": "0.22%"
+    "pickrate": "0.39%"
   },
   {
     "name": "Jawhead",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd87c30b6c7de6ae3b5aa56162c48c8b.png",
-    "winrate": "48.40%",
-    "banrate": "0.31%",
-    "pickrate": "0.38%"
-  },
-  {
-    "name": "Karrie",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
-    "winrate": "48.32%",
-    "banrate": "0.30%",
-    "pickrate": "0.49%"
+    "winrate": "48.50%",
+    "banrate": "0.32%",
+    "pickrate": "0.40%"
   },
   {
     "name": "Aurora",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png",
-    "winrate": "48.30%",
+    "winrate": "48.41%",
     "banrate": "0.18%",
-    "pickrate": "0.31%"
+    "pickrate": "0.30%"
   },
   {
     "name": "Lesley",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png",
-    "winrate": "48.04%",
-    "banrate": "3.07%",
-    "pickrate": "1.56%"
+    "winrate": "48.23%",
+    "banrate": "3.34%",
+    "pickrate": "1.59%"
   },
   {
-    "name": "Johnson",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
-    "winrate": "47.98%",
-    "banrate": "2.25%",
-    "pickrate": "0.67%"
+    "name": "Karrie",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png",
+    "winrate": "48.18%",
+    "banrate": "0.31%",
+    "pickrate": "0.56%"
   },
   {
     "name": "Khufra",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png",
-    "winrate": "47.98%",
-    "banrate": "2.02%",
+    "winrate": "48.14%",
+    "banrate": "1.96%",
     "pickrate": "0.25%"
   },
   {
     "name": "Novaria",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57eeea6d5bd8d21229de8df79751db9f.png",
+    "winrate": "48.08%",
+    "banrate": "0.28%",
+    "pickrate": "0.38%"
+  },
+  {
+    "name": "Nolan",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
     "winrate": "47.96%",
-    "banrate": "0.27%",
+    "banrate": "0.59%",
     "pickrate": "0.39%"
   },
   {
     "name": "Lukas",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
-    "winrate": "47.95%",
-    "banrate": "1.16%",
-    "pickrate": "0.23%"
-  },
-  {
-    "name": "Lancelot",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png",
-    "winrate": "47.82%",
-    "banrate": "39.85%",
-    "pickrate": "1.85%"
-  },
-  {
-    "name": "Kalea",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
-    "winrate": "47.74%",
-    "banrate": "7.39%",
-    "pickrate": "0.46%"
-  },
-  {
-    "name": "Zilong",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
-    "winrate": "47.67%",
-    "banrate": "0.55%",
-    "pickrate": "0.72%"
+    "winrate": "47.92%",
+    "banrate": "1.26%",
+    "pickrate": "0.25%"
   },
   {
     "name": "Claude",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1097b9d3e1d5e9f14600d32e8b18acd.png",
-    "winrate": "47.53%",
-    "banrate": "0.22%",
-    "pickrate": "0.64%"
+    "winrate": "47.86%",
+    "banrate": "0.21%",
+    "pickrate": "0.61%"
   },
   {
-    "name": "Nolan",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9012ee9f73fbb4db4e1953e5fb5172e1.png",
-    "winrate": "47.49%",
-    "banrate": "0.58%",
-    "pickrate": "0.73%"
+    "name": "Luo Yi",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+    "winrate": "47.76%",
+    "banrate": "0.13%",
+    "pickrate": "0.32%"
+  },
+  {
+    "name": "Johnson",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ff988c6660b4d04f8dd3d40df988bb.png",
+    "winrate": "47.76%",
+    "banrate": "2.32%",
+    "pickrate": "0.66%"
+  },
+  {
+    "name": "Lancelot",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png",
+    "winrate": "47.59%",
+    "banrate": "39.45%",
+    "pickrate": "1.92%"
+  },
+  {
+    "name": "Zilong",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9db57da4f0daef6d432676e4f19101ed.png",
+    "winrate": "47.47%",
+    "banrate": "0.53%",
+    "pickrate": "0.71%"
   },
   {
     "name": "Suyou",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
     "winrate": "47.46%",
-    "banrate": "0.30%",
+    "banrate": "0.31%",
     "pickrate": "0.18%"
   },
   {
-    "name": "Ling",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
-    "winrate": "47.18%",
-    "banrate": "0.79%",
-    "pickrate": "0.41%"
+    "name": "Kalea",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+    "winrate": "47.46%",
+    "banrate": "7.24%",
+    "pickrate": "0.42%"
   },
   {
     "name": "Arlott",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f666faa5ec6be5353f10dcd1d8997a42.png",
-    "winrate": "47.04%",
-    "banrate": "16.90%",
-    "pickrate": "0.99%"
-  },
-  {
-    "name": "Karina",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
-    "winrate": "47.04%",
-    "banrate": "3.45%",
-    "pickrate": "0.52%"
+    "winrate": "47.16%",
+    "banrate": "16.39%",
+    "pickrate": "0.91%"
   },
   {
     "name": "Nana",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee1e0d80d87bb614a0c552ef028f85ce.png",
-    "winrate": "46.94%",
-    "banrate": "4.14%",
-    "pickrate": "1.33%"
-  },
-  {
-    "name": "Franco",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
-    "winrate": "46.88%",
-    "banrate": "9.32%",
-    "pickrate": "1.86%"
+    "winrate": "47.04%",
+    "banrate": "4.22%",
+    "pickrate": "1.35%"
   },
   {
     "name": "Chip",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79224d297f14377ad2eda8543432330d.png",
-    "winrate": "46.73%",
-    "banrate": "11.21%",
+    "winrate": "47.00%",
+    "banrate": "14.20%",
     "pickrate": "0.07%"
   },
   {
+    "name": "Karina",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png",
+    "winrate": "46.88%",
+    "banrate": "3.59%",
+    "pickrate": "0.51%"
+  },
+  {
+    "name": "Franco",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png",
+    "winrate": "46.83%",
+    "banrate": "9.28%",
+    "pickrate": "1.89%"
+  },
+  {
     "name": "Freya",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ecfab713c877196d4b9e44a2aa2f6a.png",
-    "winrate": "46.46%",
-    "banrate": "15.99%",
-    "pickrate": "0.80%"
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
+    "winrate": "46.65%",
+    "banrate": "12.27%",
+    "pickrate": "0.69%"
+  },
+  {
+    "name": "Ling",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_017bade52b9fc94bbc12615de6d75c08.png",
+    "winrate": "46.60%",
+    "banrate": "0.77%",
+    "pickrate": "0.43%"
   },
   {
     "name": "Esmeralda",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4661a64a2c6b724e7b67032fcbface27.png",
-    "winrate": "46.22%",
-    "banrate": "1.94%",
+    "winrate": "46.25%",
+    "banrate": "1.95%",
     "pickrate": "0.76%"
   },
   {
     "name": "Selena",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3f967121519ae40509c5b2fdf52b19d.png",
-    "winrate": "46.14%",
-    "banrate": "2.74%",
-    "pickrate": "0.71%"
+    "winrate": "46.21%",
+    "banrate": "2.88%",
+    "pickrate": "0.67%"
   },
   {
     "name": "Harith",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d228a823b477fdf6c458c829c2e62bcf.png",
-    "winrate": "46.09%",
+    "winrate": "46.01%",
     "banrate": "0.17%",
-    "pickrate": "0.39%"
+    "pickrate": "0.36%"
   },
   {
     "name": "Paquito",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-    "winrate": "45.61%",
+    "winrate": "45.93%",
     "banrate": "0.13%",
     "pickrate": "0.20%"
   },
   {
+    "name": "Martis",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
+    "winrate": "45.47%",
+    "banrate": "1.47%",
+    "pickrate": "0.57%"
+  },
+  {
     "name": "Mathilda",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24d08ed788a9f5984bcf3b732ddcaf04.png",
-    "winrate": "45.47%",
-    "banrate": "2.86%",
-    "pickrate": "0.22%"
+    "winrate": "45.43%",
+    "banrate": "3.17%",
+    "pickrate": "0.24%"
   },
   {
     "name": "Balmond",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4df4ce8528166d6e1cc94480f4f0e910.png",
-    "winrate": "45.43%",
-    "banrate": "6.18%",
-    "pickrate": "1.26%"
-  },
-  {
-    "name": "Martis",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png",
-    "winrate": "45.23%",
-    "banrate": "1.75%",
-    "pickrate": "0.64%"
-  },
-  {
-    "name": "Granger",
-    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
-    "winrate": "45.22%",
-    "banrate": "9.12%",
-    "pickrate": "2.80%"
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_df9a6990b1946d045e4d3a46c90725cf.png",
+    "winrate": "45.27%",
+    "banrate": "4.61%",
+    "pickrate": "1.07%"
   },
   {
     "name": "Tigreal",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png",
-    "winrate": "45.13%",
-    "banrate": "3.17%",
-    "pickrate": "1.41%"
+    "winrate": "45.04%",
+    "banrate": "3.23%",
+    "pickrate": "1.33%"
+  },
+  {
+    "name": "Granger",
+    "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a7729262d5b4abdc34ae5181e964c235.png",
+    "winrate": "45.00%",
+    "banrate": "9.36%",
+    "pickrate": "3.06%"
   },
   {
     "name": "Dyrroth",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_8ec13b59871b2862d773beac2d69fa3e.png",
-    "winrate": "44.91%",
-    "banrate": "0.96%",
-    "pickrate": "0.94%"
+    "winrate": "44.66%",
+    "banrate": "0.98%",
+    "pickrate": "0.93%"
   },
   {
     "name": "Chou",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
-    "winrate": "44.62%",
-    "banrate": "2.31%",
-    "pickrate": "0.93%"
+    "winrate": "44.55%",
+    "banrate": "2.27%",
+    "pickrate": "0.87%"
   },
   {
     "name": "Valentina",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
-    "winrate": "43.50%",
+    "winrate": "43.51%",
     "banrate": "0.15%",
-    "pickrate": "0.13%"
+    "pickrate": "0.11%"
   },
   {
     "name": "Fanny",
     "icon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png",
-    "winrate": "41.83%",
-    "banrate": "10.94%",
-    "pickrate": "0.81%"
+    "winrate": "41.85%",
+    "banrate": "10.59%",
+    "pickrate": "0.75%"
   }
 ]
